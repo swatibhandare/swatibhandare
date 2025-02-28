@@ -4,7 +4,7 @@
 - 🤝 Let's Connect: Open to collaboration and new opportunities. Reach out!
 - 👀 Actively looking for a full-time job starting in May 2025    
 - 💞️ I’m interested in PLM Developer | Widget Developer |  PLM Consultant | Software Developer roles
-- 🌱 I’m currently learning 3DExperience platform, MQL, TCL, VueJS3
+- 🌱 I’m currently learning 3DExperience platform concepts (Enovia), MQL, TCL, VueJS 3,
 
 🌐 Socials: 
 
